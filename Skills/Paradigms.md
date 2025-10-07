@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming u
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -18,35 +18,35 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming h
   - Actor model
   - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
+  - Black box h
+  - Information hiding h
+  - Aspect-oriented programming h
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form
   - Instance
-  - Introspection
-  - Reflection
+  - Introspection h
+  - Reflection h
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
+  - Single-responsibility principle (SRP) k
+  - Open–closed principle (OCP) h
   - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Interface segregation principle (ISP) k
+  - Dependency inversion principle (DIP) k
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton k
+  - Factory Method k
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Adapter k
+  - Observer k
+  - Strategy k
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy k
+  - Chain of Responsibility k
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
   - Prototype
-  - Composite
+  - Composite k
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method k
+  - Visitor h
   - Reactor
   - Active object
   - Delegation
