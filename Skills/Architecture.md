@@ -1,33 +1,33 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Separation of concerns: 🎓 known
+  - Inversion of Control: 🎓 known
+  - Dependency Injection: 🎓 known
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
   - SOLID
   - CQS
-  - Modularity
-  - Subsystems
-  - Directories
+  - Modularity: 🎓 known
+  - Subsystems: 🎓 known
+  - Directories: 🎓 known
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 🖐️ used
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -35,32 +35,32 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation: 👂 heard
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
+  - Load balancing: 👂 heard
+  - Gateways: 👂 heard
+  - On-premises: 🎓 known
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 🎓 known
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -69,16 +69,16 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 🎓 known
   - Process modelling
-  - Data modelling
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code
-  - No-code
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID

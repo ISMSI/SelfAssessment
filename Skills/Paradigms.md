@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 🖐️ used
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -18,35 +18,35 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
   - Instance
-  - Introspection
-  - Reflection
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 👂 heard
   - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton: 🎓 known
+  - Factory Method: 🎓 known
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
   - Prototype
-  - Composite
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method: 🎓 known
+  - Visitor: 👂 heard
   - Reactor
   - Active object
   - Delegation

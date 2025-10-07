@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
   - `BigInt`
-  - `String`
+  - `String`: 🎓 known
   - `Symbol`
-  - `Infinity`
-  - `NaN`
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
   - `undefined`
-  - `null`
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,9 +59,9 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
   - `for`
   - `for..in`
   - `for..of`
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
   - TC39
