@@ -1,33 +1,33 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Separation of concerns k
+  - Inversion of Control k
+  - Dependency Injection k
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
   - SOLID
   - CQS
-  - Modularity
-  - Subsystems
-  - Directories
+  - Modularity k
+  - Subsystems k
+  - Directories k
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage u
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability u
+  - Quality u
+  - Availability u
+  - Flexibility u
+  - Law of Demeter (LoD) u
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -35,32 +35,32 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming k
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) u
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling k
+  - Entity-relationship diagram k
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation h
+  - Distributed systems h
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
+  - Load balancing h
+  - Gateways h
+  - On-premises k
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS k
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -69,16 +69,16 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design k
   - Process modelling
-  - Data modelling
+  - Data modelling h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code
-  - No-code
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
