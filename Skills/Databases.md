@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery h
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases k
+  - Key-value store h
   - Tuple store
   - Graph databases
   - Object databases
@@ -22,45 +22,45 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram k
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys k
+  - Foreign keys k
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions k
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
+  - `ORDER BY` k
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` k
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
+  - `UNION` k
+  - `DISTINCT` k
   - `WHERE`
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` k
   - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `DROP TABLE` k
+  - `PRIMARY KEY` k
+  - `FOREIGN KEY` k
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite u
   - DynamoDB
   - Firebase
 - Data engineering
