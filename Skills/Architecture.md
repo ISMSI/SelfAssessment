@@ -1,33 +1,33 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns k
-  - Inversion of Control k
-  - Dependency Injection k
+  - Separation of concerns: 🎓 known
+  - Inversion of Control: 🎓 known
+  - Dependency Injection: 🎓 known
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
   - SOLID
   - CQS
-  - Modularity k
-  - Subsystems k
-  - Directories k
+  - Modularity: 🎓 known
+  - Subsystems: 🎓 known
+  - Directories: 🎓 known
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage u
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
-  - Availability u
-  - Flexibility u
-  - Law of Demeter (LoD) u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 🖐️ used
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -35,32 +35,32 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming k
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI) k
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) u
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
-  - E-R data modeling k
-  - Entity-relationship diagram k
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation h
-  - Distributed systems h
+  - Budget estimation: 👂 heard
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing h
-  - Gateways h
-  - On-premises k
+  - Load balancing: 👂 heard
+  - Gateways: 👂 heard
+  - On-premises: 🎓 known
   - IaaS
   - PaaS
-  - SaaS k
+  - SaaS: 🎓 known
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -69,16 +69,16 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design k
+  - System design: 🎓 known
   - Process modelling
-  - Data modelling h
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code
-  - No-code h
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID

@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery h
+  - Backup and recovery: 👂 heard
   - Database scalability
-  - Relational databases k
-  - Key-value store h
+  - Relational databases: 🎓 known
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases
   - Object databases
@@ -22,45 +22,45 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram k
+  - Entity-Relationship Diagram: 🎓 known
   - Normal forms
   - Indexing
-  - Primary keys k
-  - Foreign keys k
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions k
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
+  - `ORDER BY`: 🎓 known
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN` k
+  - `JOIN`: 🎓 known
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION` k
-  - `DISTINCT` k
+  - `UNION`: 🎓 known
+  - `DISTINCT`: 🎓 known
   - `WHERE`
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE` k
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
-  - `DROP TABLE` k
-  - `PRIMARY KEY` k
-  - `FOREIGN KEY` k
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL h
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite u
+  - SQLite: 🖐️ used
   - DynamoDB
   - Firebase
 - Data engineering
