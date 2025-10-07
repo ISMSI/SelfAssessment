@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
   - `BigInt`
-  - `String`
+  - `String` k
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity` h
+  - `NaN` h
+  - `undefined` 
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,9 +59,9 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
+  - `if` u
+  - `while` u
+  - `do..while` u
   - `for`
   - `for..in`
   - `for..of`
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js h
+  - npm h
   - prettier
   - MDN
   - TC39
